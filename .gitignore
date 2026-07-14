@@ -1,0 +1,12 @@
+# Generated reports
+output/
+
+# Backup files
+*.bak
+*.tmp
+
+# Vim
+*.swp
+
+# macOS
+.DS_Store
